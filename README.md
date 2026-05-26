@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Gowthami Alisetti</h1>
 <h3 align="center">Aspiring Software Developer | Java Enthusiast</h3>
 
----
+<br/>
 
-## 👩‍💻 About Me
+##  About Me
 
-- 🎯 Passionate about writing clean and efficient code
+- 🎯 Passionate about building clean, efficient, and scalable code
 - 🔭 Currently working on Java-based projects
-- 🌱 Learning Data Structures, Algorithms & Backend Development
-- 💡 Love solving logical problems and building real-world applications
+- 🌱 Actively learning Data Structures, Algorithms & Backend Development
+- 💡 I enjoy solving logical problems and turning ideas into working software
+- 🌐 Interested in Web Development and modern technologies
 - 📍 Based in India
 
 ---
@@ -17,9 +18,12 @@
 
 | Category | Skills |
 |---|---|
-| Languages | Java, SQL |
+| Languages | Java, SQL, JavaScript |
+| Web Technologies | HTML, CSS, JavaScript |
+| Backend | Java |
+| Database | SQL |
 | Tools | Git, GitHub, VS Code |
-| Concepts | OOP, DSA, Problem Solving |
+| Concepts | OOP, DSA, Problem Solving, Responsive Design |
 
 ---
 
@@ -33,16 +37,16 @@
 
 ---
 
-## 🚀 Goals
+##  Goals
 
 - Improve problem-solving skills
-- Build full-stack projects
+- Build full-stack web applications
 - Contribute to open-source projects
 - Become a skilled software engineer
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <p>
   <a href="mailto:gowthamialisetti93@gmail.com">
