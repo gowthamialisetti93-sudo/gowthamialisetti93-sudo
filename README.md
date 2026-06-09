@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gowthami Alisetti</h1>
-<h3 align="center">Aspiring Software Developer | Java Enthusiast</h3>
+<h3 align="center"> Software Developer | Java Enthusiast</h3>
 
 <br/>
 
@@ -19,7 +19,7 @@
 | Category | Skills |
 |---|---|
 | Languages | Java, SQL, JavaScript |
-| Web Technologies | HTML, CSS, JavaScript |
+| Web Technologies | HTML, CSS, JavaScript, React Js |
 | Backend | Java |
 | Database | SQL |
 | Tools | Git, GitHub, VS Code |
